@@ -7,6 +7,7 @@ HEARTH_FAILURE
 - No normal distributions
 	"Have I have to correct the distributions?
 - "Death_events" is my dependent feature to predict mortality
+- Boolean feature, no continue variable, IMP!
 
 2. Experiment with the atributte conbinations
 
@@ -14,8 +15,8 @@ HEARTH_FAILURE
 
 3. Prepare the data for the ML algorithms
 
-- Drop the dependent feature 
 - Select the best features
+- Drop the dependent feature
 - Standarized the data
 
 4. Prepare the data for the ML algorithms
